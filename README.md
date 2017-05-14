@@ -27,7 +27,7 @@ Detail dari film ini berisi judul, release date, deskripsi film dan berapa ratin
 Dari detail inilah pengguna bisa tertarik menonton film dan menentukan film apa yang akan ditonton bersama keluarga kesayangan. 
 
 # Kelebihan dari Aplikasi
-Desan yang sangat menarik dan mudah penggunaannya
-Data yang ditampilkan akurat
-Data dapat langsung di update karena online
+Desain yang sangat menarik dan mudah penggunaannya <br>
+Data yang ditampilkan akurat <br>
+Data dapat langsung di update karena aplikasi ini online <br>
 # Screenshot dari Aplikasi 
