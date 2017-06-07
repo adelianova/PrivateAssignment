@@ -7,6 +7,8 @@ Kelas / No urut : XIRPL6/01 <br>
 NIS : 4649/1368.070<br>
 Angkatan : 24<br>
 Sekolah :SMK Telkom Malang
+# Link Aplikasi
+https://drive.google.com/open?id=0B5hlBPjsjedLZ2tRc3VUbVU5YmM
 # Alamat API yang digunakan pada Aplikasi
 Alamat API now playing "https://api.themoviedb.org/3/movie/now_playing?api_key=2205bfc7dacc798b8638acb44502f25b&language=en-US&page=1" <br>
 Alamat API popular "https://api.themoviedb.org/3/movie/popular?api_key=2205bfc7dacc798b8638acb44502f25b&language=en-US&page=1" <br>
