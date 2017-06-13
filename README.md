@@ -17,7 +17,7 @@ Alamat API upcoming "https://api.themoviedb.org/3/movie/upcoming?api_key=2205bfc
 # Jenis Navigasi yang digunakan pada Aplikasi
 Navigasi Drawer
 # Library dari Local Database yang digunakan pada Aplikasi 
-
+Pada Aplikasi ini digunakan library SugarORM yang mendukung penggunaan SQLite
 # Deskripsi singkat dari aplikasi 
 Aplikasi Nonton Kuy ini dapat menampilkan film apa saja yang sedang tayang dibioskop seluruh dunia, populer,rating tertinggi dan 
 film yang akan tayang. Aplikasi ini menggunakan bahasa inggris yang mudah dimengerti untuk semua usia. 
